@@ -1,0 +1,3 @@
+name = Dido
+size = 100
+email = dbunalov@icloud.com
