@@ -1,3 +1,7 @@
 name = Dido
 size = 100
 email = dbunalov@icloud.com
+
+And my name is Nikolay
+age = 40
+personal email: koksi75@gmail.com
